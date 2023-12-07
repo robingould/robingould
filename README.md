@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!! Just finished up this article about loops! [Check it out](https://github.com/robingould)
 
 <!--
 **robingould/robingould** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
