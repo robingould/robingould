@@ -6,7 +6,7 @@ I’m currently working on my game/physics engine :'D. The driving concepts behi
 
 If you wanna get in touch add me on discord: robingould
 
-Here's my website: robingould.com
+Here's my website: [robingould.com](https://robingould.com)
 (Doesn't work well on mac)
 
 <!--
