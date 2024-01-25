@@ -6,6 +6,9 @@ I’m currently working on my game/physics engine :'D. The driving concepts behi
 
 If you wanna get in touch add me on discord: robingould
 
+Here's my website: robingould.com
+(Doesn't work well on mac)
+
 <!--
 **robingould/robingould** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
