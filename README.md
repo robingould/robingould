@@ -10,6 +10,8 @@ I have been passionate about Artificial Intelligence and Machine Learning since 
 - Currently researching applications of quantum mechanics techniques with collision detection
  
 ### Get in touch: 
+  - https://www.linkedin.com/in/robin-h-gould/
+  - robin.gould@sonic.net
   - discord: robingould
 
 <!--
