@@ -3,7 +3,7 @@ Working with AI / ML since I was 14 using Racket and Octave reading “How to De
 
 - Just graduated from University of Connecticut in Compsci + Data Analytics with a math minor and looking for employment as a doing Machine Learning, Artificial Intelligence, or as a Full Stack Software Engineer. 
 - I’m interested in modding thinkpads, music production and physics/materials science
-- Currently researching applications of quantum mechanics techniques with collision detection
+- Currently researching applications of physics techniques with collision detection
  
 ### Get in touch: 
   - https://www.linkedin.com/in/robin-h-gould/
