@@ -10,6 +10,10 @@ Working with AI / ML since I was 14 using Racket and Octave reading “How to De
   - robin.gould@sonic.net
   - discord: robingould
 
+### My resume:
+Resume: https://drive.google.com/file/d/1vJVMop0_SeQNoUS06JWs5jc3egw3uKYp/view?usp=sharing
+Portfolio Website: (poor performance on MacOS and Mobile): https://robingould.com
+
 
 ### Quick link for me:
 - https://github.com/robingould/libreboot-checklist
