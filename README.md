@@ -10,6 +10,9 @@ Working with AI / ML since I was 14 using Racket and Octave reading “How to De
   - robin.gould@sonic.net
   - discord: robingould
 
+
+### Quick link for me:
+- https://github.com/robingould/libreboot-checklist
 <!--
 **robingould/robingould** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
