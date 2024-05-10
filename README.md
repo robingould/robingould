@@ -10,7 +10,7 @@
 
 ### my resume:
 - [Resume](https://drive.google.com/file/d/1vJVMop0_SeQNoUS06JWs5jc3egw3uKYp/view?usp=sharing)
-- [robingould.com](https://robingould.com) - note, gets poor performance on MacOS and Mobile
+- [Portfolio website](https://robingould.com) - note, gets poor performance on MacOS and Mobile
 
 ### my life story: 
 - [many details redacted, obviously](https://robingould.com/lifestory.html) 
