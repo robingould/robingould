@@ -17,7 +17,7 @@
 ### ⚡ Quick link for me:
 - https://github.com/robingould/libreboot-checklist
 
-### [my life story](https://robingould.com/lifestory.html) (many details redacted, obviously)
+[my life story](https://robingould.com/lifestory.html) (many details redacted, obviously)
 
 <!--
 **robingould/robingould** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
