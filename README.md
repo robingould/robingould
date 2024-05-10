@@ -1,5 +1,5 @@
 ### about me:
-- Just graduated from University of Connecticut in Compsci + Data Analytics with a math minor and looking for employment as a doing Machine Learning, Artificial Intelligence, or as a Full Stack Software Engineer. 
+- Just graduated from University of Connecticut in Compsci + Data Analytics with a math minor and looking for employment as a ML / AI Engineer or a Fullstack SWE. 
 - I’m interested in modding thinkpads, music production and physics/materials science
 - Currently researching applications of physics techniques with collision detection
  
