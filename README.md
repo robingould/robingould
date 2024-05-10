@@ -9,8 +9,8 @@
   - discord: robingould
 
 ### my resume:
-- [Resume](https://drive.google.com/file/d/1vJVMop0_SeQNoUS06JWs5jc3egw3uKYp/view?usp=sharing)
-- [Portfolio website](https://robingould.com) - note, gets poor performance on MacOS and Mobile
+- [resume](https://drive.google.com/file/d/1vJVMop0_SeQNoUS06JWs5jc3egw3uKYp/view?usp=sharing)
+- [portfolio website](https://robingould.com) - note, gets poor performance on MacOS and Mobile
 
 ### my life story: 
 - [many details redacted, obviously](https://robingould.com/lifestory.html) 
