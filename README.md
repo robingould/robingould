@@ -12,7 +12,7 @@
 - [resume](https://drive.google.com/file/d/1vJVMop0_SeQNoUS06JWs5jc3egw3uKYp/view?usp=sharing)
 - [portfolio website](https://robingould.com) - note, gets poor performance on MacOS and Mobile (and some firefox versions apparently lol)
 
-### my life story: 
+### life story: 
 - [many details redacted, obviously](https://robingould.com/lifestory.html) 
 
 ### quick link for me:
