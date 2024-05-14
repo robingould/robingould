@@ -9,7 +9,7 @@
   - discord: robingould
 
 ### my resume:
-- [resume](https://drive.google.com/file/d/1vJVMop0_SeQNoUS06JWs5jc3egw3uKYp/view?usp=sharing)
+- [resume](https://drive.google.com/file/d/1HmD5lruLBGaeg8VpJ_Hxki4cGIBals5Y/view?usp=sharing)
 - [silly portfolio website](https://robingould.com) - note, gets poor performance on MacOS and Mobile (and some firefox versions apparently lol)
 
 ### quick link for me:
