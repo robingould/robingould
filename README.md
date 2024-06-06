@@ -1,4 +1,4 @@
-thats me in my pfp... u wouldn't deny my pr... would u?
+ur gonna lgtm my pr... right?
 
 <!--
 
