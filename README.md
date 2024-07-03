@@ -1,4 +1,3 @@
-you'll lgtm my pr... right??
 ### Hi! 👋, I'm Robin. It's nice to meet you.
 
 ### 🤔 about me:
