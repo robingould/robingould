@@ -1,13 +1,14 @@
 you'll lgtm my pr... right??
+### Hi! 👋, I'm Robin. It's nice to meet you.
+
+### 🤔 about me:
+I'm from the US, currently EST. I went to the University of Connecticut for computer science, with a specialization in Machine Learning and Data Analytics. I’m interested in ML/AI and its applications in finance, music and physics.
+
+- 🔭 I’m currently working with two early stage startup projects, AI-powered tools for livestreamers and AI financal tools.
+- ✏️ My current personal project will automatically link & coordinate all of your music sources with RAG, check it out here [music linker](https://github.com/robingould/music-linker)
+- 🌱 I'm currently learning about Redis :)
 
 <!--
-
-
-### about me:
-- Just graduated from University of Connecticut in Compsci + Data Analytics with a math minor and looking for employment as a ML / AI Engineer or a Fullstack SWE. 
-- I’m interested in modding thinkpads, music production and physics/materials science
-- Currently researching applications of physics techniques with collision detection
- 
 ### get in touch: 
   - [in/robin-h-gould](https://www.linkedin.com/in/robin-h-gould/)
   - robin.gould@sonic.net
