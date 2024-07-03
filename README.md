@@ -1,6 +1,5 @@
-## Hi! 👋, I'm Robin. It's nice to meet you.
+### Hi! 👋, I'm Robin. It's nice to meet you.
 
-## 🤔 about me:
 I'm from the US, currently EST. I went to the University of Connecticut for computer science, with a specialization in Machine Learning and Data Analytics. I’m interested in ML/AI and its applications in finance, music and physics.
 
 - 🔭 I’m currently working with two early stage startup projects, AI-powered tools for livestreamers and AI financal tools.
