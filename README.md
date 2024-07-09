@@ -4,7 +4,7 @@ I'm from the US, currently EST. I went to the University of Connecticut for comp
 
 - 🔭 I’m currently working with two early stage startup projects, AI-powered tools for livestreamers and fintech tools.
 - ✏️ My current personal project will automatically link & coordinate between music sources with RAG, check it out [here](https://github.com/robingould/music-linker)
-- 🌱 I'm currently learning about Redis and system design :)
+- 🌱 I'm currently learning about Redis :)
 
 <!--
 ### get in touch: 
