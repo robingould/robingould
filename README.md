@@ -1,6 +1,6 @@
 ### Hi! 👋, I'm Robin. It's nice to meet you.
 
-I'm from the US, currently EST. I went to the University of Connecticut for computer science, with a specialization in Machine Learning and Data Analytics. I’m interested in ML/AI and its applications in finance, music and physics.
+I'm from the US, currently EST. I went to the University of Connecticut for computer science, with a specialization in Machine Learning and Data Analytics. I’m interested in ML/AI and its applications in music and physics.
 
 - 🔭 I’m currently working with an early stage startup project, AI-powered tools for livestreamers.
 - ✏️ My current personal project will automatically link & coordinate between music sources with RAG, check it out [here](https://github.com/robingould/music-linker)
